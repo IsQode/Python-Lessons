@@ -1,0 +1,55 @@
+PART 1 Basics Of Python
+
+Section 1 - Introduction
+Section 2 - Installing Python on windows
+Section 3 - Variables
+Section 4 - Data types
+Section 5 - Python Collections (Lists, Tuples, Sets, Dictionaries)
+Section 6 - Operators
+Section 7 - Functions and Methods
+Section 8 - Errors in Python
+Section 9 - Control Flow Statement, Decision Making
+Section 10 - Loops
+Section 11 - Arrays
+Section 12 - Date and Time
+Section 13 - File Handling
+Section 14 - Libraries
+Section 15 - Project 1 - Dice Rolling Simulator
+Section 16 - Project 2 Hangman
+Section 17 - Project 3 Tic Tac Toe
+Section 18 - Project 4 Building A Watch
+
+PART 2.1 - GUI PROGRAMMING; Tkinter, PySimpleGUI, Kivy - KivyMD, etc. 
+Section 1 - Tkinter
+Section 2 - Turtle Graphics
+Section 3 - Project 5 - Caterpillar Game
+Section 4 - Project 6 - Matchmaker
+Section 5 - Project 7 - Screen Pet
+Section 6 - Project 8 - Smart Calculator
+Section 7 - Project 9 - Object Collector Game
+
+PART 2.2 - Object Oriented Programming
+Section 1 - Introduction into OOP
+Section 2 - Classes and Objects
+Section 3 - Class Inheritance and Private Class Members
+
+PART 2.3 - GUI PROGRAMMING With PySimpleGUI
+Section 1 - Installing The PySimple GUI Package
+Section 2 - Creating Basic User Interface Elements With PySimpleGUI
+Section 3 - Project 10 - Creating Applications
+
+PART 2.4 - GUI PROGRAMMING With KivyMD & KivyMD
+Section 1 Learn to Make Beautiful Mobile Apps in Python - KivyMD Tutorial
+
+PART 3 - Python for data science and data visualization
+Section 1 - Numpy
+Section 2 - Pandas
+Section 3 - Matplotlib
+Section 5 - Seaborn
+Section 6 - Plotly and cufflinks
+Section 7 - Geographical Plottings
+Section 8 - Plotter
+Section 9 - Project - 11 - Geographical Plot Using Folium
+Section 10 - Project - 12 - School Donation Analysis
+
+PART 4 - Databases
